@@ -1,1 +1,1 @@
-# ocs-odf-helmcharts
+# OpenShift Container Storage (OCS)
