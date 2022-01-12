@@ -1,0 +1,6 @@
+apiVersion: v2
+name: oadp
+description: A Helm chart for OpenShift API for Data Protection
+type: application
+version: 0.1.0
+appVersion: "0.5.3"
