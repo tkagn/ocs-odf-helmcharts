@@ -1,5 +1,5 @@
 namespace: 'openshift-storage'
-clusterMonitoring: 'true'
+cluster-monitoring: 'true'
 
 channel: 'stable-4.8'
 installPlanApproval: 'Automatic'
