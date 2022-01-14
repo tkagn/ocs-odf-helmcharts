@@ -10,6 +10,6 @@ spec:
   name: {{ .Values.name }}
   source: {{ .Values.source }}
   sourceNamespace: {{ .Values.sourceNamespace }}
-  {{- if .Values.startingCSV }}
-  startingCSV: {{ .Values.startingCSV }}
+  {{- with .Values.startingCSV }}
+  startingCSV: {{ . }}
   {{ end }}
