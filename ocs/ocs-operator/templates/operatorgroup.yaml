@@ -6,4 +6,4 @@ metadata:
   namespace: {{ .Values.namespace }}
 spec:
   targetNamespaces:
-  - {{ .Values.namespace }}
+    - {{ .Values.namespace }}
