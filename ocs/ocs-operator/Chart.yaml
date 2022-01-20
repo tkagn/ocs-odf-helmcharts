@@ -1,4 +1,0 @@
-apiVersion: v2
-name: ocs-operator
-description: A Helm chart for OpenShift Container Storage (OCS) operator
-version: 0.1.0
